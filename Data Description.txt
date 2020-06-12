@@ -1,0 +1,39 @@
+################################################################
+                    DATASET DESCRIPTION
+################################################################
+
+We downloaded the data from this webpage: https://archive.ics.uci.edu/ml/datasets/Wine+Quality.
+
+Citation Request:
+ 
+Please include this citation if you plan to use this database: 
+P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
+
+1. Title: Wine Quality Data Set 
+
+2. Source: Paulo Cortez, University of Minho, Guimarães, Portugal, http://www3.dsi.uminho.pt/pcortez. A. Cerdeira, F. Almeida, T. Matos and J. Reis, Viticulture Commission of the Vinho Verde Region(CVRVV), Porto, Portugal @2009
+
+3. Relevant Information: The two datasets are related to red and white variants of the Portuguese 'Vinho Verde' wine. For more details, consult: [http://www.vinhoverde.pt/en/] or the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.). We just used the white wine data.
+
+4. Number of Instances: 4,898
+
+5. Number of Attributes: 12
+
+6. Attribute information:
+
+Input variables (based on physicochemical tests): 
+1 fixed acidity 
+2 volatile acidity 
+3 citric acid 
+4 residual sugar 
+5 chlorides 
+6 free sulfur dioxide 
+7 total sulfur dioxide 
+8 density 
+9 pH 
+10 sulphates 
+11 alcohol 
+Output variable (based on sensory data): 
+12 Quality (score between 0 and 10)
+
+7. Missing Attribute Values: None
